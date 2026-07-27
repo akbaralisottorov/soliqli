@@ -1,0 +1,7 @@
+# Soliqly Codeowners Register
+* @akbaralisottorov
+docs/ @akbaralisottorov
+apps/web/ @akbaralisottorov
+apps/api/ @akbaralisottorov
+packages/ @akbaralisottorov
+infrastructure/ @akbaralisottorov
